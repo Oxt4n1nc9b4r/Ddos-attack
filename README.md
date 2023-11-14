@@ -14,7 +14,7 @@ apt install git -y
 ```
 
 ``` 
-git clone https://github.com/adarshaddee/Devil-Eye.git 
+git clone (https://github.com/Oxt4n1nc9b4r/Ddos-attack).git 
 ```
 
 # Execution
